@@ -1,0 +1,62 @@
+/* Stylesheet */
+
+#animal-lion {
+		width: 340px;
+
+		height: 800px;
+
+		border: 5px solid rgba(148, 60, 48, 0.93);
+
+		border-radius: 10px;
+
+		box-sizing: border-box;
+
+		box-shadow: 4px 4px 4px #5d3333;
+
+		color: #f74747;
+
+		background-color: Black;
+
+		text-align: center;
+}
+
+.information {
+		width: 300px;
+
+		height: 380px;
+
+		border: 3px solid rgba(148, 60, 48, 0.93);
+
+		border-radius: 10px;
+
+		text-align: left;
+
+		margin: auto;		
+}
+
+.lion-image {
+		width: 300px;
+
+		height: 300px;
+
+		padding-bottom: 20px;
+}
+
+.interesting-fact {
+		font-style: italic;
+}
+
+.label {
+		font-weight: bold;
+}
+
+.list-items {
+		list-style-type: none;
+   
+		text-align: start;
+
+		padding: initial;		
+}
+.lion-name {
+		font-weight: bold;
+}
